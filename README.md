@@ -25,16 +25,16 @@ The robot we used was named Ferduckie.
 
 Robot stopped at the red line with front LEDs glowing red:
 
-![Stop line detection with LEDs](media/stop_line_detection_leds.jpg)
+![Stop line detection with LEDs](media/stop_line_detection_leds.jpeg)
 ![Robot at stop line](media/robot_at_stop_line.jpeg)
 
 Robot navigating the lane in the full Duckietown environment:
 
-![Lane following](media/lane_following.jpg)
+![Lane following](media/lane_following.jpeg)
 
 Overview of the Duckietown track used for testing:
 
-![Duckietown environment](media/duckietown_environment.jpg)
+![Duckietown environment](media/duckietown_environment.jpeg)
 
 ---
 
